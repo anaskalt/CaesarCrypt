@@ -1,9 +1,8 @@
 # CaesarCrypt
 
 Caesar cipher decryption script written in python.
-![alt text][logo]
-[logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Caesar_cipher_left_shift_of_3.svg/640px-Caesar_cipher_left_shift_of_3.svg.png "left shifting"
 
+![left shifting](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Caesar_cipher_left_shift_of_3.svg/640px-Caesar_cipher_left_shift_of_3.svg.png)
 This script use greek alphabet. To change the alphabet go to second line and change alphabet input.
 
 ```python
