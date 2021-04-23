@@ -12,7 +12,7 @@ alphabet     = 'ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ'
 ```python
 alphabet     = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 ```
-## Dependencies
+## Requirements
 [Python 3.6](https://www.python.org/downloads/) or newer.
 
 ## Usage
